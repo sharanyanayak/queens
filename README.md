@@ -1,5 +1,6 @@
 (queens)
 #include<stdio.h>
+#include<stdlib.>
 #include<math.h>
 int a[30],count=0;
 int place(int pos)
